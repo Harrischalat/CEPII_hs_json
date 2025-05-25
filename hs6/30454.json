@@ -1,0 +1,824 @@
+[
+  {
+    "reporter": 36,
+    "partner": 842,
+    "trade_value_usd_thousands": 5.041,
+    "quantity_tonnes": 0.453
+  },
+  {
+    "reporter": 40,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 56,
+    "partner": 276,
+    "trade_value_usd_thousands": 0.538,
+    "quantity_tonnes": 0.15
+  },
+  {
+    "reporter": 56,
+    "partner": 380,
+    "trade_value_usd_thousands": 11.708,
+    "quantity_tonnes": 1.136
+  },
+  {
+    "reporter": 56,
+    "partner": 528,
+    "trade_value_usd_thousands": 2.483,
+    "quantity_tonnes": 0.101
+  },
+  {
+    "reporter": 76,
+    "partner": 124,
+    "trade_value_usd_thousands": 22.55,
+    "quantity_tonnes": 1.311
+  },
+  {
+    "reporter": 100,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 124,
+    "partner": 842,
+    "trade_value_usd_thousands": 4.385,
+    "quantity_tonnes": 0.201
+  },
+  {
+    "reporter": 144,
+    "partner": 40,
+    "trade_value_usd_thousands": 3.98,
+    "quantity_tonnes": 0.344
+  },
+  {
+    "reporter": 144,
+    "partner": 124,
+    "trade_value_usd_thousands": 1.171,
+    "quantity_tonnes": 0.047
+  },
+  {
+    "reporter": 144,
+    "partner": 268,
+    "trade_value_usd_thousands": 0.079,
+    "quantity_tonnes": 0.007
+  },
+  {
+    "reporter": 144,
+    "partner": 276,
+    "trade_value_usd_thousands": 20.904,
+    "quantity_tonnes": 1.273
+  },
+  {
+    "reporter": 152,
+    "partner": 251,
+    "trade_value_usd_thousands": 2502.559,
+    "quantity_tonnes": 48.278
+  },
+  {
+    "reporter": 152,
+    "partner": 276,
+    "trade_value_usd_thousands": 183.323,
+    "quantity_tonnes": 0.498
+  },
+  {
+    "reporter": 152,
+    "partner": 380,
+    "trade_value_usd_thousands": 4323.579,
+    "quantity_tonnes": 102.492
+  },
+  {
+    "reporter": 152,
+    "partner": 724,
+    "trade_value_usd_thousands": 688.072,
+    "quantity_tonnes": 17.43
+  },
+  {
+    "reporter": 152,
+    "partner": 826,
+    "trade_value_usd_thousands": 131.406,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 188,
+    "partner": 842,
+    "trade_value_usd_thousands": 169.493,
+    "quantity_tonnes": 10.372
+  },
+  {
+    "reporter": 191,
+    "partner": 380,
+    "trade_value_usd_thousands": 1.102,
+    "quantity_tonnes": 0.084
+  },
+  {
+    "reporter": 191,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 191,
+    "partner": 703,
+    "trade_value_usd_thousands": 0.407,
+    "quantity_tonnes": 0.032
+  },
+  {
+    "reporter": 203,
+    "partner": 208,
+    "trade_value_usd_thousands": 1.96,
+    "quantity_tonnes": 0.16
+  },
+  {
+    "reporter": 203,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.005,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 208,
+    "partner": 40,
+    "trade_value_usd_thousands": 0.152,
+    "quantity_tonnes": 0.01
+  },
+  {
+    "reporter": 208,
+    "partner": 56,
+    "trade_value_usd_thousands": 18.077,
+    "quantity_tonnes": 1.669
+  },
+  {
+    "reporter": 208,
+    "partner": 251,
+    "trade_value_usd_thousands": 375.353,
+    "quantity_tonnes": 37.988
+  },
+  {
+    "reporter": 208,
+    "partner": 276,
+    "trade_value_usd_thousands": 113.914,
+    "quantity_tonnes": 6.839
+  },
+  {
+    "reporter": 208,
+    "partner": 300,
+    "trade_value_usd_thousands": 5.533,
+    "quantity_tonnes": 0.292
+  },
+  {
+    "reporter": 208,
+    "partner": 380,
+    "trade_value_usd_thousands": 0.253,
+    "quantity_tonnes": 0.024
+  },
+  {
+    "reporter": 208,
+    "partner": 528,
+    "trade_value_usd_thousands": 22.945,
+    "quantity_tonnes": 1.046
+  },
+  {
+    "reporter": 208,
+    "partner": 752,
+    "trade_value_usd_thousands": 795.979,
+    "quantity_tonnes": 289.917
+  },
+  {
+    "reporter": 218,
+    "partner": 124,
+    "trade_value_usd_thousands": 0.645,
+    "quantity_tonnes": 0.06
+  },
+  {
+    "reporter": 233,
+    "partner": 380,
+    "trade_value_usd_thousands": 1.421,
+    "quantity_tonnes": 0.101
+  },
+  {
+    "reporter": 233,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 251,
+    "partner": 56,
+    "trade_value_usd_thousands": 18.541,
+    "quantity_tonnes": 0.927
+  },
+  {
+    "reporter": 251,
+    "partner": 208,
+    "trade_value_usd_thousands": 7.933,
+    "quantity_tonnes": 0.988
+  },
+  {
+    "reporter": 251,
+    "partner": 276,
+    "trade_value_usd_thousands": 62.815,
+    "quantity_tonnes": 2.006
+  },
+  {
+    "reporter": 251,
+    "partner": 344,
+    "trade_value_usd_thousands": 0.795,
+    "quantity_tonnes": 0.05
+  },
+  {
+    "reporter": 251,
+    "partner": 372,
+    "trade_value_usd_thousands": 11.006,
+    "quantity_tonnes": 0.223
+  },
+  {
+    "reporter": 251,
+    "partner": 380,
+    "trade_value_usd_thousands": 80.512,
+    "quantity_tonnes": 4.181
+  },
+  {
+    "reporter": 251,
+    "partner": 442,
+    "trade_value_usd_thousands": 44.088,
+    "quantity_tonnes": 1.875
+  },
+  {
+    "reporter": 251,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.004,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 251,
+    "partner": 642,
+    "trade_value_usd_thousands": 0.982,
+    "quantity_tonnes": 0.094
+  },
+  {
+    "reporter": 251,
+    "partner": 724,
+    "trade_value_usd_thousands": 13.567,
+    "quantity_tonnes": 1.059
+  },
+  {
+    "reporter": 251,
+    "partner": 757,
+    "trade_value_usd_thousands": 133.681,
+    "quantity_tonnes": 8.551
+  },
+  {
+    "reporter": 251,
+    "partner": 764,
+    "trade_value_usd_thousands": 0.067,
+    "quantity_tonnes": 0.003
+  },
+  {
+    "reporter": 251,
+    "partner": 826,
+    "trade_value_usd_thousands": 585.616,
+    "quantity_tonnes": 37.023
+  },
+  {
+    "reporter": 276,
+    "partner": 40,
+    "trade_value_usd_thousands": 116.826,
+    "quantity_tonnes": 4.407
+  },
+  {
+    "reporter": 276,
+    "partner": 56,
+    "trade_value_usd_thousands": 0.531,
+    "quantity_tonnes": 0.018
+  },
+  {
+    "reporter": 276,
+    "partner": 208,
+    "trade_value_usd_thousands": 1.359,
+    "quantity_tonnes": 0.198
+  },
+  {
+    "reporter": 276,
+    "partner": 233,
+    "trade_value_usd_thousands": 6.557,
+    "quantity_tonnes": 0.22
+  },
+  {
+    "reporter": 276,
+    "partner": 440,
+    "trade_value_usd_thousands": 1.135,
+    "quantity_tonnes": 0.048
+  },
+  {
+    "reporter": 276,
+    "partner": 528,
+    "trade_value_usd_thousands": 1.067,
+    "quantity_tonnes": 0.025
+  },
+  {
+    "reporter": 276,
+    "partner": 616,
+    "trade_value_usd_thousands": 10.955,
+    "quantity_tonnes": 0.361
+  },
+  {
+    "reporter": 276,
+    "partner": 724,
+    "trade_value_usd_thousands": 63.906,
+    "quantity_tonnes": 9.234
+  },
+  {
+    "reporter": 300,
+    "partner": 100,
+    "trade_value_usd_thousands": 1.732,
+    "quantity_tonnes": 0.109
+  },
+  {
+    "reporter": 300,
+    "partner": 380,
+    "trade_value_usd_thousands": 3.358,
+    "quantity_tonnes": 0.286
+  },
+  {
+    "reporter": 348,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 360,
+    "partner": 36,
+    "trade_value_usd_thousands": 295.2,
+    "quantity_tonnes": 11.431
+  },
+  {
+    "reporter": 360,
+    "partner": 124,
+    "trade_value_usd_thousands": 1.42,
+    "quantity_tonnes": 0.118
+  },
+  {
+    "reporter": 372,
+    "partner": 251,
+    "trade_value_usd_thousands": 0.078,
+    "quantity_tonnes": 0.013
+  },
+  {
+    "reporter": 372,
+    "partner": 826,
+    "trade_value_usd_thousands": 27.971,
+    "quantity_tonnes": 4.556
+  },
+  {
+    "reporter": 380,
+    "partner": 40,
+    "trade_value_usd_thousands": 34.47,
+    "quantity_tonnes": 1.971
+  },
+  {
+    "reporter": 380,
+    "partner": 56,
+    "trade_value_usd_thousands": 1.393,
+    "quantity_tonnes": 0.107
+  },
+  {
+    "reporter": 380,
+    "partner": 100,
+    "trade_value_usd_thousands": 0.287,
+    "quantity_tonnes": 0.007
+  },
+  {
+    "reporter": 380,
+    "partner": 191,
+    "trade_value_usd_thousands": 22.111,
+    "quantity_tonnes": 1.472
+  },
+  {
+    "reporter": 380,
+    "partner": 203,
+    "trade_value_usd_thousands": 8.62,
+    "quantity_tonnes": 0.432
+  },
+  {
+    "reporter": 380,
+    "partner": 251,
+    "trade_value_usd_thousands": 19.63,
+    "quantity_tonnes": 0.955
+  },
+  {
+    "reporter": 380,
+    "partner": 276,
+    "trade_value_usd_thousands": 41.006,
+    "quantity_tonnes": 2.048
+  },
+  {
+    "reporter": 380,
+    "partner": 348,
+    "trade_value_usd_thousands": 8.534,
+    "quantity_tonnes": 0.472
+  },
+  {
+    "reporter": 380,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.005,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 380,
+    "partner": 642,
+    "trade_value_usd_thousands": 23.694,
+    "quantity_tonnes": 1.406
+  },
+  {
+    "reporter": 380,
+    "partner": 703,
+    "trade_value_usd_thousands": 0.094,
+    "quantity_tonnes": 0.004
+  },
+  {
+    "reporter": 380,
+    "partner": 705,
+    "trade_value_usd_thousands": 16.754,
+    "quantity_tonnes": 0.907
+  },
+  {
+    "reporter": 380,
+    "partner": 724,
+    "trade_value_usd_thousands": 65.399,
+    "quantity_tonnes": 4.229
+  },
+  {
+    "reporter": 380,
+    "partner": 752,
+    "trade_value_usd_thousands": 0.148,
+    "quantity_tonnes": 0.007
+  },
+  {
+    "reporter": 380,
+    "partner": 757,
+    "trade_value_usd_thousands": 8.201,
+    "quantity_tonnes": 0.713
+  },
+  {
+    "reporter": 392,
+    "partner": 458,
+    "trade_value_usd_thousands": 0.251,
+    "quantity_tonnes": 0.014
+  },
+  {
+    "reporter": 428,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 440,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.005,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 40,
+    "trade_value_usd_thousands": 1.218,
+    "quantity_tonnes": 0.018
+  },
+  {
+    "reporter": 528,
+    "partner": 56,
+    "trade_value_usd_thousands": 24.405,
+    "quantity_tonnes": 1.044
+  },
+  {
+    "reporter": 528,
+    "partner": 203,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 208,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 251,
+    "trade_value_usd_thousands": 0.019,
+    "quantity_tonnes": 0.001
+  },
+  {
+    "reporter": 528,
+    "partner": 276,
+    "trade_value_usd_thousands": 865.349,
+    "quantity_tonnes": 44.758
+  },
+  {
+    "reporter": 528,
+    "partner": 300,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 348,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 372,
+    "trade_value_usd_thousands": 0.003,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 380,
+    "trade_value_usd_thousands": 90.398,
+    "quantity_tonnes": 6.925
+  },
+  {
+    "reporter": 528,
+    "partner": 440,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 442,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 616,
+    "trade_value_usd_thousands": 0.008,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 620,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 642,
+    "trade_value_usd_thousands": 0.002,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 705,
+    "trade_value_usd_thousands": 0.005,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 724,
+    "trade_value_usd_thousands": 0.008,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 528,
+    "partner": 752,
+    "trade_value_usd_thousands": 0.266,
+    "quantity_tonnes": 0.022
+  },
+  {
+    "reporter": 528,
+    "partner": 804,
+    "trade_value_usd_thousands": 0.408,
+    "quantity_tonnes": 0.021
+  },
+  {
+    "reporter": 554,
+    "partner": 184,
+    "trade_value_usd_thousands": 1.199,
+    "quantity_tonnes": 0.116
+  },
+  {
+    "reporter": 554,
+    "partner": 702,
+    "trade_value_usd_thousands": 0.35,
+    "quantity_tonnes": 0.021
+  },
+  {
+    "reporter": 616,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.005,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 616,
+    "partner": 757,
+    "trade_value_usd_thousands": 0.037,
+    "quantity_tonnes": 0.006
+  },
+  {
+    "reporter": 620,
+    "partner": 380,
+    "trade_value_usd_thousands": 18.404,
+    "quantity_tonnes": 1.865
+  },
+  {
+    "reporter": 620,
+    "partner": 724,
+    "trade_value_usd_thousands": 0.78,
+    "quantity_tonnes": 0.127
+  },
+  {
+    "reporter": 642,
+    "partner": 380,
+    "trade_value_usd_thousands": 0.404,
+    "quantity_tonnes": 0.03
+  },
+  {
+    "reporter": 642,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 686,
+    "partner": 124,
+    "trade_value_usd_thousands": 18.0,
+    "quantity_tonnes": 0.968
+  },
+  {
+    "reporter": 686,
+    "partner": 724,
+    "trade_value_usd_thousands": 2.697,
+    "quantity_tonnes": 0.249
+  },
+  {
+    "reporter": 699,
+    "partner": 251,
+    "trade_value_usd_thousands": 90.977,
+    "quantity_tonnes": 8.554
+  },
+  {
+    "reporter": 699,
+    "partner": 380,
+    "trade_value_usd_thousands": 460.083,
+    "quantity_tonnes": 54.594
+  },
+  {
+    "reporter": 699,
+    "partner": 724,
+    "trade_value_usd_thousands": 282.713,
+    "quantity_tonnes": 31.956
+  },
+  {
+    "reporter": 710,
+    "partner": 124,
+    "trade_value_usd_thousands": 1.145,
+    "quantity_tonnes": 0.1
+  },
+  {
+    "reporter": 724,
+    "partner": 191,
+    "trade_value_usd_thousands": 103.721,
+    "quantity_tonnes": 9.063
+  },
+  {
+    "reporter": 724,
+    "partner": 196,
+    "trade_value_usd_thousands": 8.734,
+    "quantity_tonnes": 0.837
+  },
+  {
+    "reporter": 724,
+    "partner": 246,
+    "trade_value_usd_thousands": 4.347,
+    "quantity_tonnes": 0.336
+  },
+  {
+    "reporter": 724,
+    "partner": 251,
+    "trade_value_usd_thousands": 483.199,
+    "quantity_tonnes": 27.921
+  },
+  {
+    "reporter": 724,
+    "partner": 276,
+    "trade_value_usd_thousands": 36.309,
+    "quantity_tonnes": 1.869
+  },
+  {
+    "reporter": 724,
+    "partner": 292,
+    "trade_value_usd_thousands": 6.463,
+    "quantity_tonnes": 0.695
+  },
+  {
+    "reporter": 724,
+    "partner": 300,
+    "trade_value_usd_thousands": 5.054,
+    "quantity_tonnes": 0.929
+  },
+  {
+    "reporter": 724,
+    "partner": 348,
+    "trade_value_usd_thousands": 4.808,
+    "quantity_tonnes": 0.387
+  },
+  {
+    "reporter": 724,
+    "partner": 380,
+    "trade_value_usd_thousands": 2041.102,
+    "quantity_tonnes": 142.019
+  },
+  {
+    "reporter": 724,
+    "partner": 528,
+    "trade_value_usd_thousands": 86.037,
+    "quantity_tonnes": 4.418
+  },
+  {
+    "reporter": 724,
+    "partner": 608,
+    "trade_value_usd_thousands": 0.638,
+    "quantity_tonnes": 0.04
+  },
+  {
+    "reporter": 724,
+    "partner": 616,
+    "trade_value_usd_thousands": 204.845,
+    "quantity_tonnes": 12.09
+  },
+  {
+    "reporter": 724,
+    "partner": 620,
+    "trade_value_usd_thousands": 69.848,
+    "quantity_tonnes": 3.727
+  },
+  {
+    "reporter": 724,
+    "partner": 642,
+    "trade_value_usd_thousands": 22.193,
+    "quantity_tonnes": 2.081
+  },
+  {
+    "reporter": 724,
+    "partner": 682,
+    "trade_value_usd_thousands": 2.208,
+    "quantity_tonnes": 0.17
+  },
+  {
+    "reporter": 724,
+    "partner": 705,
+    "trade_value_usd_thousands": 0.513,
+    "quantity_tonnes": 0.039
+  },
+  {
+    "reporter": 724,
+    "partner": 757,
+    "trade_value_usd_thousands": 4.512,
+    "quantity_tonnes": 0.004
+  },
+  {
+    "reporter": 724,
+    "partner": 826,
+    "trade_value_usd_thousands": 563.784,
+    "quantity_tonnes": 36.2
+  },
+  {
+    "reporter": 752,
+    "partner": 208,
+    "trade_value_usd_thousands": 0.099,
+    "quantity_tonnes": 0.26
+  },
+  {
+    "reporter": 752,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.001,
+    "quantity_tonnes": NaN
+  },
+  {
+    "reporter": 784,
+    "partner": 462,
+    "trade_value_usd_thousands": 0.014,
+    "quantity_tonnes": 0.002
+  },
+  {
+    "reporter": 826,
+    "partner": 528,
+    "trade_value_usd_thousands": 0.009,
+    "quantity_tonnes": 0.001
+  },
+  {
+    "reporter": 842,
+    "partner": 44,
+    "trade_value_usd_thousands": 0.357,
+    "quantity_tonnes": 0.004
+  },
+  {
+    "reporter": 842,
+    "partner": 124,
+    "trade_value_usd_thousands": 34.081,
+    "quantity_tonnes": 1.697
+  }
+]
