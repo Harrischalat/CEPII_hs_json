@@ -597,13 +597,13 @@
     "reporter": 152,
     "partner": 276,
     "trade_value_usd_thousands": 200.0,
-    "quantity_tonnes": NaN
+    "quantity_tonnes": null
   },
   {
     "reporter": 152,
     "partner": 604,
     "trade_value_usd_thousands": 4.99,
-    "quantity_tonnes": NaN
+    "quantity_tonnes": null
   },
   {
     "reporter": 152,
@@ -2817,7 +2817,7 @@
     "reporter": 440,
     "partner": 152,
     "trade_value_usd_thousands": 26.873,
-    "quantity_tonnes": NaN
+    "quantity_tonnes": null
   },
   {
     "reporter": 440,
